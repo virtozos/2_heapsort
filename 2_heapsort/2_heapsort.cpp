@@ -1,4 +1,3 @@
-//https://wfis.uni.lodz.pl/staff/tgwizdalla/files/asd2_heapsort.pdf
 #include <iostream>
 
 using namespace std;
@@ -26,6 +25,7 @@ void print(int* array, int size) {
 
 int main()
 {
+    //wczytuje liczbe przypadkow testowych
     int n;
     cin >> n;
 
